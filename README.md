@@ -68,9 +68,7 @@ See `ds_report.pdf` for a detailed summary of:
 
 ---
 
-## 🔗 Colab Notebook
 
- [Click here to view notebook](https://colab.research.google.com/drive/1Ae3OyHpbi2L8zD8iqWkiD30LGJEVMlim?usp=sharing)
 
 
 
